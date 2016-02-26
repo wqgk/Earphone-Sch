@@ -1,0 +1,56 @@
+Added Component: Designator=R14(0402R)
+Added Component: Designator=TP1(SIP1)
+Added Component: Designator=TP2(SIP1)
+Added Component: Designator=TP3(SIP1)
+Added Component: Designator=TP4(SIP1)
+Added Component: Designator=TP5(SIP1)
+Added Component: Designator=TP6(SIP1)
+Added Component: Designator=TP7(SIP1)
+Added Component: Designator=TP8(SIP1)
+Added Component: Designator=TP9(SIP1)
+Added Component: Designator=TP10(SIP1)
+Added Component: Designator=TP11(SIP1)
+Added Component: Designator=TP12(SIP1)
+Added Component: Designator=TP13(SIP1)
+Added Component: Designator=TP14(SIP1)
+Added Component: Designator=TP15(SIP1)
+Added Component: Designator=TP16(SIP1)
+Added Component: Designator=TP17(SIP1)
+Added Pin To Net: NetName=VDDA Pin=R14-1
+Added Pin To Net: NetName=NetD6_1 Pin=R14-2
+Added Pin To Net: NetName=VCC Pin=TP1-1
+Added Pin To Net: NetName=VCC Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=RXD Pin=TP5-1
+Added Pin To Net: NetName=PT11_16 Pin=TP6-1
+Added Pin To Net: NetName=PT15 Pin=TP7-1
+Added Pin To Net: NetName=AIN0 Pin=TP8-1
+Added Pin To Net: NetName=ACM Pin=TP9-1
+Added Pin To Net: NetName=VDDA Pin=TP10-1
+Added Pin To Net: NetName=AIN3 Pin=TP11-1
+Added Pin To Net: NetName=AIN9 Pin=TP12-1
+Added Pin To Net: NetName=PT13 Pin=TP13-1
+Added Pin To Net: NetName=PT14 Pin=TP14-1
+Added Pin To Net: NetName=GND Pin=TP15-1
+Added Pin To Net: NetName=GND Pin=TP16-1
+Added Pin To Net: NetName=GND Pin=TP17-1
+Added Member To Class: ClassName=Earphone-6 Member=Component R14 2.2K
+Added Member To Class: ClassName=Earphone-6 Member=Component TP1 VCC
+Added Member To Class: ClassName=Earphone-6 Member=Component TP2 VCC
+Added Member To Class: ClassName=Earphone-6 Member=Component TP3 GND
+Added Member To Class: ClassName=Earphone-6 Member=Component TP4 GND
+Added Member To Class: ClassName=Earphone-6 Member=Component TP5 RXD
+Added Member To Class: ClassName=Earphone-6 Member=Component TP6 PT11_16
+Added Member To Class: ClassName=Earphone-6 Member=Component TP7 PT15
+Added Member To Class: ClassName=Earphone-6 Member=Component TP8 AIN0
+Added Member To Class: ClassName=Earphone-6 Member=Component TP9 ACM
+Added Member To Class: ClassName=Earphone-6 Member=Component TP10 VDDA
+Added Member To Class: ClassName=Earphone-6 Member=Component TP11 AIN3
+Added Member To Class: ClassName=Earphone-6 Member=Component TP12 AIN9
+Added Member To Class: ClassName=Earphone-6 Member=Component TP13 PT13
+Added Member To Class: ClassName=Earphone-6 Member=Component TP14 PT14
+Added Member To Class: ClassName=Earphone-6 Member=Component TP15 GND
+Added Member To Class: ClassName=Earphone-6 Member=Component TP16 GND
+Added Member To Class: ClassName=Earphone-6 Member=Component TP17 GND
+Added Room: Name=Earphone-6

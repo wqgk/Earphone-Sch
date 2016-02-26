@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AIN3 Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Added Component: Designator=R21(0402R)
+Added Pin To Net: NetName=NetD6_1 Pin=R14-1
+Added Pin To Net: NetName=VDDA Pin=R14-2
+Added Pin To Net: NetName=AIN3 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Room: Name=Earphone-6
