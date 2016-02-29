@@ -1,29 +1,17 @@
-Earphone.PrjPCB	    �����ļ�
-Earphone.PcbLib	    ��װ���ļ�
-Earphone.SchLib	    ԭ��ͼ���ļ�
-Earphone-1.SchDoc	������LPC812����������ѹȡ�磬ģ�⿪��ʶ��MIC,GND
+Earphone.PrjPCB	    工程文件
+Earphone.PcbLib	    封装库文件
+Earphone.SchLib	    原理图库文件
+Earphone-1.SchDoc	控制器LPC812，二极管升压取电，模拟开关识别MIC,GND
 Earphone-1.PcbDoc
-Earphone-2.PcbDoc	������LPC822����������ѹȡ�磬ASC0201�Զ�ʶ��MIC,GND	
-Earphone-2.SchDoc	������LPC822����������ѹȡ�磬ASC0201�Զ�ʶ��MIC,GND
-Earphone-3.PcbDoc	������LPC822����ѹ����ѹȡ�磬��ʶ��MIC,GND���ӿڲ���USBת����
-Earphone-3.SchDoc	������LPC822����ѹ����ѹȡ�磬��ʶ��MIC,GND���ӿڲ���USBת����
-Earphone-4.PcbDoc	������LPC822����ѹ����ѹȡ�磬NTCD3155ȫ����������ʶ��MIC,GND���ӿڲ��ö���	
-Earphone-4.SchDoc	������LPC822����ѹ����ѹȡ�磬NTCD3155ȫ����������ʶ��MIC,GND���ӿڲ��ö���
-Earphone-5.PcbDoc	������LPC822����ѹ����ѹȡ�磬FETȫ��������ASC0201�Զ�ʶ��MIC,GND���ӿڲ��ö���
-Earphone-5.SchDoc	������LPC822����ѹ����ѹȡ�磬FETȫ��������ASC0201�Զ�ʶ��MIC,GND���ӿڲ��ö���
-Earphone-6.PcbDoc	������LPC822����ѹ����ѹȡ�磬��ʶ��MIC,GND���ӿڲ���USBת��������Ѫ���Ǽ��ɵ�һ�������ϣ�����ʹ��ģ�顣
-Earphone-6.SchDoc	������LPC822����ѹ����ѹȡ�磬��ʶ��MIC,GND���ӿڲ���USBת��������Ѫ���Ǽ��ɵ�һ�������ϣ�����ʹ��ģ�顣
+Earphone-2.PcbDoc	控制器LPC822，二极管升压取电，ASC0201自动识别MIC,GND	
+Earphone-2.SchDoc	控制器LPC822，二极管升压取电，ASC0201自动识别MIC,GND
+Earphone-3.PcbDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机
+Earphone-3.SchDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机
+Earphone-4.PcbDoc	控制器LPC822，变压器升压取电，NTCD3155全桥整流，无识别MIC,GND，接口采用耳机	
+Earphone-4.SchDoc	控制器LPC822，变压器升压取电，NTCD3155全桥整流，无识别MIC,GND，接口采用耳机
+Earphone-5.PcbDoc	控制器LPC822，变压器升压取电，FET全桥整流，ASC0201自动识别MIC,GND，接口采用耳机
+Earphone-5.SchDoc	控制器LPC822，变压器升压取电，FET全桥整流，ASC0201自动识别MIC,GND，接口采用耳机
+Earphone-6.PcbDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机，将血糖仪集成到一看板子上，不再使用模块。
+Earphone-6.SchDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机，将血糖仪集成到一看板子上，不再使用模块。
 
-ע�����°���Earphone-6
-
-
-
-
-
-
-
-
-
-
-
-
+注：最新版是Earphone-6
