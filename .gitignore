@@ -2,6 +2,7 @@
 *.b#*
 *.l#*
 *.Zip
+*.LOG
 __Previews/
 Project Outputs for Earphone/
 History/
