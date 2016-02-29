@@ -11,9 +11,10 @@ Earphone-4.PcbDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬NTCD3155È«ÇÅÕûÁ÷£¬ÎÞÊ¶±ðMIC,GND£
 Earphone-4.SchDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬NTCD3155È«ÇÅÕûÁ÷£¬ÎÞÊ¶±ðMIC,GND£¬½Ó¿Ú²ÉÓÃ¶ú»ú
 Earphone-5.PcbDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬FETÈ«ÇÅÕûÁ÷£¬ASC0201×Ô¶¯Ê¶±ðMIC,GND£¬½Ó¿Ú²ÉÓÃ¶ú»ú
 Earphone-5.SchDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬FETÈ«ÇÅÕûÁ÷£¬ASC0201×Ô¶¯Ê¶±ðMIC,GND£¬½Ó¿Ú²ÉÓÃ¶ú»ú
+Earphone-6.PcbDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬ÎÞÊ¶±ðMIC,GND£¬½Ó¿Ú²ÉÓÃUSB×ª¶ú»ú£¬½«ÑªÌÇÒÇ¼¯³Éµ½Ò»¿´°å×ÓÉÏ£¬²»ÔÙÊ¹ÓÃÄ£¿é¡£
+Earphone-6.SchDoc	¿ØÖÆÆ÷LPC822£¬±äÑ¹Æ÷ÉýÑ¹È¡µç£¬ÎÞÊ¶±ðMIC,GND£¬½Ó¿Ú²ÉÓÃUSB×ª¶ú»ú£¬½«ÑªÌÇÒÇ¼¯³Éµ½Ò»¿´°å×ÓÉÏ£¬²»ÔÙÊ¹ÓÃÄ£¿é¡£
 
-
-×¢£º×îÐÂ°æÊÇEarphone-3
+×¢£º×îÐÂ°æÊÇEarphone-6
 
 
 
