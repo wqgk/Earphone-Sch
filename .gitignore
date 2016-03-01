@@ -3,6 +3,10 @@
 *.l#*
 *.Zip
 *.LOG
+*.Dat
+*.htm
+*.pdf
+*.OutJob
 __Previews/
 Project Outputs for Earphone/
 History/
