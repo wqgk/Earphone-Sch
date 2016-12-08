@@ -13,5 +13,6 @@ Earphone-5.PcbDoc	控制器LPC822，变压器升压取电，FET全桥整流，AS
 Earphone-5.SchDoc	控制器LPC822，变压器升压取电，FET全桥整流，ASC0201自动识别MIC,GND，接口采用耳机
 Earphone-6.PcbDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机，将血糖仪集成到一看板子上，不再使用模块。
 Earphone-6.SchDoc	控制器LPC822，变压器升压取电，无识别MIC,GND，接口采用USB转耳机，将血糖仪集成到一看板子上，不再使用模块。
-
+#从手机的3.5mm的耳机孔取出电流，大约在10ma左右
+#用途在数据采集，便携式U盾，或者红外遥控
 注：最新版是Earphone-6
